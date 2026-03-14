@@ -5,6 +5,7 @@ resume.pdf
 *.env
 .env.*
 !.env.example
+.applypilot/
 
 # Runtime artifacts
 *.db
